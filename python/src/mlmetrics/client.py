@@ -18,6 +18,7 @@ class Metrics:
   
   def plot(self):
     # TODO: Per metrics, key - generate a plot with run_id as series.
+    pass
 
   def save(self, filename):
     with open(filename, "w") as f:
